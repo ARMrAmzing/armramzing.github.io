@@ -18,3 +18,9 @@ Some of my works
 [![EasyToInstall](https://github-readme-stats.vercel.app/api/pin/?username=AmazingRabbit-Studio&repo=EasyToInstall&theme=dark)](https://github.com/AmazingRabbit-Studio/EasyToInstall)
 
 [![AIER](https://github-readme-stats.vercel.app/api/pin/?username=AmazingRabbit-Studio&repo=Anti-internal-Energy-Revolution&theme=dark)](https://github.com/AmazingRabbit-Studio/Anti-internal-Energy-Revolution)
+
+跳转至：
+
+Skip to:
+
+[我的诗歌专页(My Poem Page)](https://armramzing.github.io/poems.md)

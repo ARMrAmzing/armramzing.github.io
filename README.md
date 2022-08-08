@@ -7,4 +7,6 @@
 
 你们可以叫我神奇君
 
-For oversea friends, you can call me Bill or Mr.Amazing
+For oversea friends, you can call me Mr.Amazing or Bill
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmazingRabbit-Studio&repo=EasyToInstall)]

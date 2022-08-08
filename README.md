@@ -9,4 +9,4 @@
 
 For oversea friends, you can call me Mr.Amazing or Bill
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmazingRabbit-Studio&repo=EasyToInstall)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmazingRabbit-Studio&repo=EasyToInstall)

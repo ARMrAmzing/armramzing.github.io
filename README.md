@@ -15,6 +15,10 @@ For oversea friends, you can call me Mr.Amazing or Bill
 
 Some of my works
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmazingRabbit-Studio&repo=EasyToInstall)(https://github.com/AmazingRabbit-Studio/EasyToInstall)
+[EasyToInstall](https://github.com/AmazingRabbit-Studio/EasyToInstall)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmazingRabbit-Studio&repo=Anti-internal-Energy-Revolution)(https://github.com/AmazingRabbit-Studio/Anti-internal-Energy-Revolution)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmazingRabbit-Studio&repo=EasyToInstall)
+
+[AIER](https://github.com/AmazingRabbit-Studio/Anti-internal-Energy-Revolution)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmazingRabbit-Studio&repo=Anti-internal-Energy-Revolution)

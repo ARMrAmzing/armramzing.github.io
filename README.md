@@ -17,8 +17,8 @@ Some of my works
 
 [EasyToInstall](https://github.com/AmazingRabbit-Studio/EasyToInstall)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmazingRabbit-Studio&repo=EasyToInstall)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmazingRabbit-Studio&repo=EasyToInstall&theme=dark)
 
 [AIER](https://github.com/AmazingRabbit-Studio/Anti-internal-Energy-Revolution)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmazingRabbit-Studio&repo=Anti-internal-Energy-Revolution)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmazingRabbit-Studio&repo=Anti-internal-Energy-Revolution&theme=dark)

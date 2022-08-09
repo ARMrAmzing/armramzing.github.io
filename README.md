@@ -1,4 +1,5 @@
 # ARMrAmzing的神秘小屋
+
 我是一位来自广西玉林的业余开发者
 
 I am a Chinese amateur developer from Yulin, Guangxi
@@ -23,4 +24,4 @@ Some of my works
 
 Skip to:
 
-[我的诗歌专页(My Poem Page)](https://armramzing.github.io/poems.html)
+[我的诗歌专页 (My Poem Page)](https://armramzing.github.io/poems/)

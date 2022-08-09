@@ -28,4 +28,5 @@ Some of my works
 
 Skip to:
 
-[我的诗歌专页 (My Poem Page)](https://armramzing.github.io/poems/)
+- [我的下载专页 (My Download Page)](https://armramzing.github.io/downloads/)
+- [我的诗歌专页 (My Poem Page)](https://armramzing.github.io/poems/)

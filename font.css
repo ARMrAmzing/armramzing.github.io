@@ -1,32 +1,27 @@
 h1 {
-    font-family:"Consolas","Microsoft YaHei";
-    text-align：center;
+    font-family:"Microsoft YaHei","Consolas";
 }
 h2 {
-    font-family:"Consolas","Microsoft YaHei";
-    text-align：center;
+    font-family:"Microsoft YaHei","Consolas";
 }
 h3 {
-    font-family:"Consolas","Microsoft YaHei";
-    text-align：center;
+    font-family:"Microsoft YaHei","Consolas";
 }
 h4 {
-    font-family:"Consolas","Microsoft YaHei";
-    text-align：center;
+    font-family:"Microsoft YaHei","Consolas";
 }
 h5 {
-    font-family:"Consolas","Microsoft YaHei";
-    text-align：center;
+    font-family:"Microsoft YaHei","Consolas";
 }
 h6 {
-    font-family:"Consolas","Microsoft YaHei";
-    text-align：center;
+    font-family:"Microsoft YaHei","Consolas";
 }
 p {
-    font-family:"Consolas","Microsoft YaHei";
-    text-align：center;
+    font-family:"Microsoft YaHei","Consolas";
 }
 a {
-    font-family:"Consolas","Microsoft YaHei";
+    font-family:"Microsoft YaHei","Consolas";
+}
+div {
     text-align：center;
 }

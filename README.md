@@ -4,7 +4,7 @@
 
 # ARMrAmzing的神秘小屋
 
-[English](https://armramzing.github.io/en_us)|[简体中文](https://armramzing.github.io)
+[English](https://armramzing.github.io/en-us)\|[简体中文](https://armramzing.github.io)
 
 我是一位来自广西玉林的业余开发者
 

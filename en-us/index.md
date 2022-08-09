@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" type="text/css" href="font.css">
+</head>
+
 # ARMrAmzing's Mysterious Hut
 
 [English](https://armramzing.github.io/en-us)\|[简体中文](https://armramzing.github.io)
@@ -18,3 +22,7 @@ Skip to:
 
 - [My Download Page](https://armramzing.github.io/downloads)
 - [My Poem Page](https://armramzing.github.io/poems)
+
+<footer>
+  <p>Copyright © 2022 AmazingRabbit Studio. All rights reserved. </p>
+</footer>

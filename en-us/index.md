@@ -16,5 +16,5 @@ Some of my works
 
 Skip to:
 
-- [My Download Page](https://armramzing.github.io/downloads/)
-- [My Poem Page](https://armramzing.github.io/poems/)
+- [My Download Page](https://armramzing.github.io/downloads)
+- [My Poem Page](https://armramzing.github.io/poems)

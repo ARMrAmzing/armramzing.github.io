@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" type="text/css" href="font.css">
+</head>
+
 # ARMrAmzing的神秘小屋
 
 我是一位来自广西玉林的业余开发者
@@ -25,7 +29,3 @@ Some of my works
 Skip to:
 
 [我的诗歌专页 (My Poem Page)](https://armramzing.github.io/poems/)
-
-<head>
-<link rel="stylesheet" type="css" href="font.css">
-</head>

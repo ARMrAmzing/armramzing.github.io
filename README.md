@@ -20,5 +20,5 @@
 
 跳转至：
 
-- [我的下载专页](https://armramzing.github.io/downloads/)
-- [我的诗歌专页](https://armramzing.github.io/poems/)
+- [我的下载专页](https://armramzing.github.io/downloads)
+- [我的诗歌专页](https://armramzing.github.io/poems)

@@ -1,2 +1,0 @@
-- name: jekyll-deploy
-  uses: DavidS/jekyll-deploy@1.1.1

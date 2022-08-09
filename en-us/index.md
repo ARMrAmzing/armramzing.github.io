@@ -1,6 +1,6 @@
 # ARMrAmzing's Mysterious Hut
 
-[English](https://armramzing.github.io/en_us)\|[简体中文](https://armramzing.github.io)
+[English](https://armramzing.github.io/en-us)\|[简体中文](https://armramzing.github.io)
 
 I am a Chinese amateur developer from Yulin, Guangxi
 

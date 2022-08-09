@@ -26,4 +26,6 @@ Skip to:
 
 [我的诗歌专页 (My Poem Page)](https://armramzing.github.io/poems/)
 
+<head>
 <link rel="stylesheet" type="css" href="font.css">
+</head>

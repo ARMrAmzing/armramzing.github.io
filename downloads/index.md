@@ -5,7 +5,7 @@
 
 # ARMrAmzing的神秘小屋 | 下载专页
 
-[English](https://armramzing.github.io/en-us/downloads) | [简体中文](https://armramzing.github.io/downloads)
+[English](https://armramzing.github.io/en-us/downloads)\|[简体中文](https://armramzing.github.io/downloads)
 
 [主页](https://armramzing.github.io)
 

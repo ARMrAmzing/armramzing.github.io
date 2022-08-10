@@ -1,28 +1,6 @@
-h1 {
-    font-family:"Microsoft YaHei";
-}
-h2 {
-    font-family:"Microsoft YaHei";
-}
-h3 {
-    font-family:"Microsoft YaHei";
-}
-h4 {
-    font-family:"Microsoft YaHei";
-}
-h5 {
-    font-family:"Microsoft YaHei";
-}
-h6 {
-    font-family:"Microsoft YaHei";
-}
-p {
-    font-family:"Microsoft YaHei";
-}
-a {
+h1, h2, h3, h4, h4, h5, h6, p, a, footer {
     font-family:"Microsoft YaHei";
 }
 footer {
-    font-family:"Microsoft YaHei";
-    text-align:center
+    text-align: center;
 }

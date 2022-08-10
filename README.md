@@ -23,8 +23,6 @@
 - [我的下载专页](https://armramzing.github.io/downloads)
 - [我的诗歌专页](https://armramzing.github.io/poems)
 
-<button type="button" onclick="alert('欢迎!')">点我!</button>
-
 <footer>
   <p>Copyright © 2022 AmazingRabbit Studio. All rights reserved.<p/>
 <footer/>

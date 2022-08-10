@@ -1,7 +1,13 @@
 <head>
 <link rel="stylesheet" type="text/css" href="../font.css">
 </head>
-
+<style>
+div
+{
+	background-color:#FFFFFF;
+	outline:#E0E0E0 solid thin;
+}
+</style>
 
 # ARMrAmzing的神秘小屋 | 下载专页
 
@@ -11,7 +17,11 @@
 
 ## 小工具
 
-- [<button type="button">一键安装APK</button>](https://github.com/AmazingRabbit-Studio/EasyToInstall/releases/download/Release-7/EasyToInstall-1.2.1.rar)
+<div>
+  <img src="https://armramzing.github.io/favicon.ico" alt="TSET">
+  
+  <button type="button" href="https://github.com/AmazingRabbit-Studio/EasyToInstall/releases/download/Release-7/EasyToInstall-1.2.1.rar">一键安装APK</button>
+<div/>
 
 ## Minecraft模组
 

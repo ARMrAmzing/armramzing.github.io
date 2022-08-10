@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="../font.css">
 </head>
 <style>
-div
+span
 {
 	background-color:#FFFFFF;
 	outline:#E0E0E0 solid thin;
@@ -17,11 +17,11 @@ div
 
 ## 小工具
 
-<div>
+<span>
   <img src="https://armramzing.github.io/favicon.ico" alt="TSET">
   
   <button type="button" href="https://github.com/AmazingRabbit-Studio/EasyToInstall/releases/download/Release-7/EasyToInstall-1.2.1.rar">一键安装APK</button>
-<div/>
+<span/>
 
 ## Minecraft模组
 
